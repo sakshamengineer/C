@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int a,b,c;
+    int a,b;
     printf("enter the marks of 1st subject:\t");
     scanf("%d",&a);
     printf("enter the marks of 2nd subject:\t");
